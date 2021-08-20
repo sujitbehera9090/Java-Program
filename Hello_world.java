@@ -7,6 +7,8 @@ class Hello_world{
 
         System.out.println("Hello World!");
 
+        System.out.println("Cheack");
+
     }
     
 }
